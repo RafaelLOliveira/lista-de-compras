@@ -1,3 +1,4 @@
 ### Aplicativo Android - Lista de Compras
-versão 1
+- App desenvolvido no Android Studio
+- versão 1
 
